@@ -1,4 +1,4 @@
-## paddle_ball_game
+## pygame_paddle_ball_game
 
 A detailed README for a simple game built with **Pygame**. This file explains the project step by step — how to run it, requirements, code explanation, improvement suggestions, and common troubleshooting.
 
